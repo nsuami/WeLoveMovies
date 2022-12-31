@@ -1,4 +1,4 @@
-> By Didier Kindidi
+> By Didier Kindidi...
 
 ## Project: WeLoveMovies
 
